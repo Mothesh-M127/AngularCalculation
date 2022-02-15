@@ -194,7 +194,7 @@ font-size: large;
       <Cuboid-Volume class="formelement"></Cuboid-Volume>
   </div>
   <div class="footer">
-    &copy; Copyright. All Rights Reserved | Developed by  Vidyaneela.M
+    &copy; Copyright. All Rights Reserved | Developed by Mothesh.M
   </div>
   </div>
 
